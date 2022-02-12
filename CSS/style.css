@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.card{
+    background: url('../IMAGENS/background.png');
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    margin: auto;
+    padding: 1px 20px;
+    margin-top: 10%;
+    box-sizing: border-box;
+    
+}
+
+.Insta{
+    list-style-image: url('../IMAGENS/Insta.png'); 
+  
+}
+
+.Twitter{
+    list-style-image: url('../IMAGENS/Twitter.png');
+}
+
+.Youtube{
+    list-style-image: url('../IMAGENS/Youtube.png');
+} 
+
+
+
+a:visited{
+    color: black;
+    text-decoration-line: none; 
+}
+
+#text{
+    font-family: 'Yellowtail', cursive;
+}
